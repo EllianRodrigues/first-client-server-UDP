@@ -1,14 +1,16 @@
-# first-client-server-UDP
-Primeira criação cliente-servidor com UDP
+# First Client-Server with UDP
 
-# Como executar:
+Este é um exemplo simples de uma implementação cliente-servidor utilizando o protocolo UDP.
 
-1. Inicie o servidor com:
+## Como Executar:
+
+### 1. Inicie o Servidor:
+
 ```bash
 python servidor.py
 ```
 
-2. Inicie o cliente:
+### 2. Inicie o cliente:
 ```bash
 python cliente.py
 ```
